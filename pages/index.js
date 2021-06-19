@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome Kesla
+          Welcome Kesla 
         </h1>
       </main>
 
